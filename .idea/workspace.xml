@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4981e6-d09a-475e-a1aa-d49f59c29efb" name="Changes" comment="Code push on 23/02/2026">
-      <change afterPath="$PROJECT_DIR$/Basics/New_Package/__init__.py" afterDir="false" />
+    <list default="true" id="8f4981e6-d09a-475e-a1aa-d49f59c29efb" name="Changes" comment="Python variable 24/02/26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Git_Basics" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Git_Basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Python_Variable_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Python_Variable_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basics/Python_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Python_Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       <recent name="C:\Users\pprasad\PycharmProjects\Python_Automation_2026\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Python_Variables">
+  <component name="RunManager" selected="Python.Python_Variable_1">
     <configuration name="Name_Print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Automation_2026" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,8 +129,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Python_Variables" />
         <item itemvalue="Python.Python_Variable_1" />
+        <item itemvalue="Python.Python_Variables" />
         <item itemvalue="Python.Name_Print" />
       </list>
     </recent_temporary>
@@ -166,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771830247165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python variable 24/02/26">
+      <created>1771912073990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771912073990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pushing First code" />
     <MESSAGE value="Code push on 23/02/2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code push on 23/02/2026" />
+    <MESSAGE value="Python variable 24/02/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python variable 24/02/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
