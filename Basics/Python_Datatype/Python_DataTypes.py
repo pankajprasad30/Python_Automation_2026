@@ -1,4 +1,4 @@
-# Vd 8 : Python Variable Session2, Revision on 25/02/2026
+# Vd 8 : Python Data Type Session 1, Revision on 25/02/2026
 """
 Python Datatypes:
 1. Number
@@ -124,3 +124,7 @@ s10 = """ Hello we are learning python.
 Python programming 'and' learning is fun.
 Its easy "to" understand
 """
+# String concatenation
+var1 = "Nice"
+s11 = "Have a "+var1+" day"
+print(s11, type(s11))
