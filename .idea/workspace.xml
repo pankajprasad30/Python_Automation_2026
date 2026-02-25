@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4981e6-d09a-475e-a1aa-d49f59c29efb" name="Changes" comment="Python variable 24/02/26">
+      <change afterPath="$PROJECT_DIR$/Basics/Python_Datatype/Python_DataTypes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Python_Variable_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Python_Variable_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/Python_Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Python_Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +38,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pprasad\PycharmProjects\Python_Automation_2026\Basics\Python_Datatype" />
       <recent name="C:\Users\pprasad\PycharmProjects\Python_Automation_2026\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Python_Variable_1">
+  <component name="RunManager" selected="Python.Python_DataTypes">
     <configuration name="Name_Print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Automation_2026" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,6 +56,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\pprasad\PycharmProjects\Python_Automation_2026\Basics\Name_Print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python_DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Automation_2026" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Python_Datatype" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Python_Datatype/Python_DataTypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Python_DataTypes" />
         <item itemvalue="Python.Python_Variable_1" />
         <item itemvalue="Python.Python_Variables" />
         <item itemvalue="Python.Name_Print" />
@@ -172,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1771912073990</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Python variable 24/02/26">
+      <created>1771916015370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771916015370</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
