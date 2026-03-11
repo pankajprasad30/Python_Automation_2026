@@ -81,5 +81,3 @@ if A % 3 == 0 or A % 7 == 0:
     print("A is divisible by 3 or 7 ")
 else:
     print("A is not divisible by 3 or 7")
-
-# Vd 14 : Python if-else basics, Session 2, Revision on 05/03/2026
