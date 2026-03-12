@@ -1,0 +1,1 @@
+# Vd 15 : Python for nested-loop, Session 1, Revision on 12/03/2026
