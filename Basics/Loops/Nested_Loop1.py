@@ -1,0 +1,1 @@
+# Vd 17 : Python nested-loop practice, Session 2, Revision on 17/03/2026

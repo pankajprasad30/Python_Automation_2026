@@ -1,4 +1,4 @@
-# Vd 16 : Python for nested-loop, Session 1, Revision on 17/03/2026
+# Vd 16 : Python nested-loop basics, Session 1, Revision on 17/03/2026
 """
 # Means loop inside loop
 for cond1:
