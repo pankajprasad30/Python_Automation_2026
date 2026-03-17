@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4981e6-d09a-475e-a1aa-d49f59c29efb" name="Changes" comment="Python nested if basics 11/03/26">
-      <change afterPath="$PROJECT_DIR$/Basics/Loops/For_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Loops/Nested_Loop.py" afterDir="false" />
+    <list default="true" id="8f4981e6-d09a-475e-a1aa-d49f59c29efb" name="Changes" comment="Python loop basics 11/03/26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Loops/Nested_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Loops/Nested_Loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
       <recent name="C:\Users\pprasad\PycharmProjects\Python_Automation_2026\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.For_Loop">
+  <component name="RunManager" selected="Python.Nested_Loop">
     <configuration name="For_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Automation_2026" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +106,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Nested_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Automation_2026" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Loops/Nested_Loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python_If_Else_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Automation_2026" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,27 +140,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Conditional_Statements/Python_If_Else_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Automation_2026" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Conditional_Statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Conditional_Statements/Python_if_else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Nested_Loop" />
         <item itemvalue="Python.For_Loop" />
         <item itemvalue="Python.Nested_If (1)" />
         <item itemvalue="Python.Nested_If" />
         <item itemvalue="Python.Python_If_Else_2" />
-        <item itemvalue="Python.Python_if_else" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1773209976191</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Python loop basics 11/03/26">
+      <created>1773296972951</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773296972951</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +325,8 @@
     <MESSAGE value="Python if else basic 02/03/26" />
     <MESSAGE value="Python if else basic 05/03/26" />
     <MESSAGE value="Python nested if basics 11/03/26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python nested if basics 11/03/26" />
+    <MESSAGE value="Python loop basics 11/03/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python loop basics 11/03/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
